@@ -1,0 +1,69 @@
+C:\Users\cquarte1\AppData\Local\Temporary Projects\ClassArrays\bin\Debug\ClassArrays.exe.config
+C:\Users\cquarte1\Documents\ClassArrays\ClassArrays\bin\Debug\ClassArrays.exe.config
+C:\Users\cquarte1\Documents\ClassArrays\ClassArrays\bin\Debug\ClassArrays.exe
+C:\Users\cquarte1\Documents\ClassArrays\ClassArrays\bin\Debug\ClassArrays.pdb
+C:\Users\cquarte1\Documents\ClassArrays\ClassArrays\bin\Debug\ClassArrays.xml
+C:\Users\cquarte1\Documents\ClassArrays\ClassArrays\obj\Debug\ClassArrays.Form1.resources
+C:\Users\cquarte1\Documents\ClassArrays\ClassArrays\obj\Debug\ClassArrays.Resources.resources
+C:\Users\cquarte1\Documents\ClassArrays\ClassArrays\obj\Debug\ClassArrays.vbproj.GenerateResource.Cache
+C:\Users\cquarte1\Documents\ClassArrays\ClassArrays\obj\Debug\ClassArrays.exe
+C:\Users\cquarte1\Documents\ClassArrays\ClassArrays\obj\Debug\ClassArrays.xml
+C:\Users\cquarte1\Documents\ClassArrays\ClassArrays\obj\Debug\ClassArrays.pdb
+E:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\bin\Debug\ClassArrays.exe.config
+E:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.exe
+E:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.xml
+E:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.pdb
+E:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\bin\Debug\ClassArrays.exe
+E:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\bin\Debug\ClassArrays.pdb
+E:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\bin\Debug\ClassArrays.xml
+E:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.Form1.resources
+E:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.Resources.resources
+E:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.vbproj.GenerateResource.Cache
+G:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\bin\Debug\ClassArrays.exe.config
+G:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.exe
+G:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.xml
+G:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.pdb
+F:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\bin\Debug\ClassArrays.exe.config
+F:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.exe
+F:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.xml
+F:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.pdb
+F:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\bin\Debug\ClassArrays.exe
+F:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\bin\Debug\ClassArrays.pdb
+F:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\bin\Debug\ClassArrays.xml
+F:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.Form1.resources
+F:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.Resources.resources
+F:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.vbproj.GenerateResource.Cache
+G:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\bin\Debug\ClassArrays.exe
+G:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\bin\Debug\ClassArrays.pdb
+G:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\bin\Debug\ClassArrays.xml
+G:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.Form1.resources
+G:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.Resources.resources
+G:\ASU Computer Science\CSCI 2211 Visual Basic Programming\ClassArrays\ClassArrays\obj\Debug\ClassArrays.vbproj.GenerateResource.Cache
+G:\VB\ClassArrays\ClassArrays\bin\Debug\ClassArrays.exe.config
+G:\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.exe
+G:\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.xml
+G:\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.pdb
+G:\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.Form1.resources
+G:\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.Resources.resources
+G:\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.vbproj.GenerateResource.Cache
+G:\VB\ClassArrays\ClassArrays\bin\Debug\ClassArrays.exe
+G:\VB\ClassArrays\ClassArrays\bin\Debug\ClassArrays.pdb
+G:\VB\ClassArrays\ClassArrays\bin\Debug\ClassArrays.xml
+F:\VB\ClassArrays\ClassArrays\bin\Debug\ClassArrays.exe.config
+F:\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.exe
+F:\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.xml
+F:\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.pdb
+F:\VB\ClassArrays\ClassArrays\bin\Debug\ClassArrays.exe
+F:\VB\ClassArrays\ClassArrays\bin\Debug\ClassArrays.pdb
+F:\VB\ClassArrays\ClassArrays\bin\Debug\ClassArrays.xml
+F:\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.Form1.resources
+F:\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.Resources.resources
+F:\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.vbproj.GenerateResource.Cache
+E:\VB\ClassArrays\ClassArrays\bin\Debug\ClassArrays.exe.config
+E:\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.exe
+E:\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.xml
+E:\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.pdb
+C:\Users\deant\Desktop\VB Porfiolo\VB\ClassArrays\ClassArrays\bin\Debug\ClassArrays.exe.config
+C:\Users\deant\Desktop\VB Porfiolo\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.exe
+C:\Users\deant\Desktop\VB Porfiolo\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.xml
+C:\Users\deant\Desktop\VB Porfiolo\VB\ClassArrays\ClassArrays\obj\Debug\ClassArrays.pdb
