@@ -1,7 +1,5 @@
 ﻿Public Class Form1
-    'Joseph Clark
-    'April 28, 2016
-    'Class Array Extra Credit
+    'Carlos Quarterman'
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Dim Lastname() As String = {"Broomfield", "Brown", "Campbell", "Canteen", "Cason", "Clark", "Clemons", "Collins", "Craig", "Dalmida", "Daniel", "Harris", "Hunter", "Kemp", "King", "Mcclendon", "Mesamours", "Mitchell", "Quarterman", "Rouse", "Suggs", "West", "Whitaker", "White", "Williams"}
         Dim Firstname() As String = {"Lawrence", "Mesha", "Michelle", "Alayah", "Jenae", "Joseph", "Travis", "Melody", "Cedric", "Joel", "Jasmine", "Robert", "Anthony", "Dexter", "Julious", "Kevin", "Rolwilde", "Kyle", "Carlos", "Bry'on", "Janika", "Keyonna", "Jaron", "Robbie", "Eric"}
